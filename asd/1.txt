@@ -1,9 +1,4 @@
 dfsdiff
-g
+num =10
 
-dfg
-d
-fg
-df
-g
 
